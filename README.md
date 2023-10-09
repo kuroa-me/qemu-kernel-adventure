@@ -66,6 +66,10 @@ Exit `chroot` and use the `pack-rootfs.sh` to pack it into a raw disk image in e
 sudo ./pack-rootfs.sh
 ```
 
+Refs:
+> https://github.com/kata-containers/kata-containers/pull/4987/files
+> https://eaasi.gitlab.io/program_docs/qemu-qed/usage/create_raw_disk_image/
+
 ## Running
 
 Start
